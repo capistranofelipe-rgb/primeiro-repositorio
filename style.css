@@ -1,9 +1,15 @@
 body {
-    background-color: #ffea2900;
-    color:oklab(89.07300000000001% -0.01977 0.18217) ;
+    background-color: #ffe600;
+    color:oklab(89.07300000000001% -0.01977 0.18217 / 0) ;
 }
 
 h1 {
-    font-size: 30px ;
-    align-items: center;
+
+    font-size: 30px ; /*tamanho da fonte*/
+    text-align: center; /*centralizando*/
+    text-transform: uppercase; /*letras maiusculas*/
+}
+p {
+    font-size: 16px;
+    color: antiquewhite;
 }
