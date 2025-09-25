@@ -1,6 +1,13 @@
 body {
-    background-color: #ffe600;
+    background-color: #ffe600; 
     color:oklab(89.07300000000001% -0.01977 0.18217 / 0) ;
+}
+
+header{
+    border: solid 2px #000000;
+font-size: 32px;
+padding: 10px;
+color: azure;
 }
 
 h1 {
@@ -11,5 +18,5 @@ h1 {
 }
 p {
     font-size: 16px;
-    color: antiquewhite;
+    color: rgb(236, 138, 9);
 }
