@@ -9,7 +9,17 @@ font-size: 32px;
 padding: 10px;
 color: azure;
 }
+section{
+    background-color: #ea8400;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
+.chamada-texto{
+    margin-right: 5%;
+}
 h1 {
 
     font-size: 30px ; /*tamanho da fonte*/
