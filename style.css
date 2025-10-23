@@ -5,10 +5,10 @@ body {
 }
 
 header {
-    border: solid 2px #000000;
+    border: solid 2px #ff8000;
     font-size: 32px;
     padding: 10px;
-    color: azure;
+    color: rgba(255, 132, 0, 0.947);
 }
 
 .chamada {
