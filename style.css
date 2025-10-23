@@ -1,15 +1,16 @@
 body {
-    background-color: #000000; 
-    color: #ebe6e6 ;
-    font-family: "Bitcount Single Ink" , sans-serif;
+    background-color: #000000;
+    color: #ebe6e6;
+    font-family: "Bitcount Single Ink", sans-serif;
 }
 
-header{
+header {
     border: solid 2px #000000;
-font-size: 32px;
-padding: 10px;
-color: azure;
+    font-size: 32px;
+    padding: 10px;
+    color: azure;
 }
+
 .chamada {
     background-color: #000000;
     padding-bottom: 80px;
@@ -18,42 +19,42 @@ color: azure;
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
 }
-h1 {
 
-    font-size: 30px ; /*tamanho da fonte*/
-    text-align: center; /*centralizando*/
-    text-transform: uppercase; /*letras maiusculas*/
+h1 {
+    font-size: 30px; /*tamanho da fonte*/
+    text-align: center;  /*centralizando*/
+    text-transform: uppercase;   /*letras maiusculas*/
 }
+
 p {
     font-size: 16px;
-    color: rgb(236, 138, 9);
+    color: rgb(9, 236, 32);
 }
-.categoria {
-   padding-left: 20px;
-   padding-right: 20px;
-}
-.categoria-videos{
-     display: flex;
-     overflow: auto;
-     gap: 10px;
 
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
-.categoria-videos img{
+
+.categoria-videos {
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+
+.categoria-videos img {
     opacity: 0.5;
     height: 200px;
-
-
 }
 
-.categoria-videos img:hover{
+.categoria-videos img:hover {
     opacity: 1.0;
     border: 1px greenyellow;
-
 }
 
 .categoria h2 {
-    color:aqua
+    color: aqua
 }
